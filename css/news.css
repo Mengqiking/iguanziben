@@ -1,0 +1,263 @@
+.my-news-layout {
+  display: flex;
+  justify-content: center;
+  width: 100%;
+  height: 1847.7px;
+  padding: 30px 0;
+  background-color: #eff2fa;
+}
+
+.my-news-out {
+  display: flex;
+  justify-content: space-between;
+  width: 1200px;
+  background-color: #eff2fa;
+}
+
+.my-news {
+  width: 780px;
+  height: 1804px;
+  padding: 20px;
+  background-color: #fff;
+}
+
+.my-news-content {
+  padding-bottom: 20px;
+  margin-bottom: 20px;
+  border-bottom: rgb(120, 118, 118) dashed thin;
+}
+
+.my-news-content a:hover h3 {
+  color: #fd4e3d;
+  transition: 0.3s
+}
+
+.my-news-header {
+  display: flex;
+  justify-content: space-between;
+  width: 780px;
+  height: 16px;
+}
+
+.my-news-header h2 {
+  display: flex;
+  font-size: 16px;
+  line-height: 1;
+  margin-left: 4px;
+}
+
+.my-news-header h2::before {
+  display: block;
+  content: "";
+  width: 4px;
+  height: 16px;
+  background: #fd4e3d;
+  border-radius: 2px;
+  margin-right: 10px;
+}
+
+.my-news-header a {
+  display: block;
+  color: #8a8d99;
+  font-size: 12px;
+  padding-right: 13px;
+}
+
+.my-news-header a:hover {
+  color: #fd4e3d;
+  transition: 0.3s;
+}
+
+.my-news-content>a>h3 {
+  line-height: 32px;
+  max-height: 64px;
+  font-size: 22px;
+  color: black;
+}
+
+.my-news-content>a>p {
+  display: -webkit-box;
+  -webkit-box-orient: vertical;
+  -webkit-line-clamp: 2;
+  overflow: hidden;
+  line-height: 25px;
+  max-height: 50px;
+  font-size: 14px;
+  color: #555;
+  margin-top: 5px;
+}
+
+.my-news-content-footer {
+  display: flex;
+  justify-content: space-between;
+  width: 780px;
+  height: 12px;
+  margin: 18px 0 0;
+}
+
+.my-news-origin {
+  display: flex;
+  justify-content: space-between;
+  height: 12px;
+  width: 285px;
+}
+
+.my-news-originweb {
+  font-size: 12px;
+  color: #555;
+}
+
+.my-news-originweb::before {
+  content: "来源：";
+  font-size: 12px;
+  font-weight: bolder;
+  color: #8a8d99;
+}
+
+.my-news-editor {
+  font-size: 12px;
+  color: #555;
+}
+
+.my-news-editor::before {
+  content: "编辑：";
+  font-size: 12px;
+  font-weight: bolder;
+  color: #8a8d99;
+}
+
+.my-news-time {
+  font-size: 12px;
+  color: #8a8d99;
+}
+
+.my-news-channel {
+  font-size: 16px;
+  color: #fd4e3d;
+  display: flex;
+  align-items: center;
+}
+
+.my-news-channel::before {
+  content: "";
+  display: block;
+  width: 12px;
+  height: 16px;
+  background: url(../image/tag.svg) 50% no-repeat;
+  background-size: contain;
+  margin-right: 10px;
+}
+
+.my-news-content>img {
+  width: 780px;
+  height: 117px;
+}
+
+
+
+.my-media {
+  width: 310px;
+  height: 1804px;
+  padding: 20px;
+  background-color: #fff;
+}
+
+.my-media-header {
+  display: flex;
+  justify-content: space-between;
+  width: 310px;
+  height: 16px;
+}
+
+.my-media-header h2 {
+  display: flex;
+  font-size: 16px;
+  line-height: 1;
+  margin-left: 4px;
+}
+
+.my-media-header h2::before {
+  display: block;
+  content: "";
+  width: 4px;
+  height: 16px;
+  background: #fd4e3d;
+  border-radius: 2px;
+  margin-right: 10px;
+}
+
+.my-media-header a {
+  display: block;
+  color: #8a8d99;
+  font-size: 12px;
+  padding-right: 13px;
+}
+
+.my-media-header a:hover {
+  color: #fd4e3d;
+  transition: 0.3s;
+}
+
+.my-media-content {
+  width: 310px;
+  height: 289px;
+  border-bottom: 1px dashed #ddd;
+  padding: 20px 0;
+}
+
+.my-media-content>a:hover h2 {
+  color: #fd4e3d;
+  transition: 0.3s;
+}
+
+.my-media-content>a>img {
+  width: 310px;
+  height: 205px;
+}
+
+.my-media-content>a>h2 {
+  font-size: 16px;
+  color: black;
+  max-height: 48px;
+  line-height: 24px;
+  margin: 10px 0;
+  display: -webkit-box;
+  -webkit-box-orient: vertical;
+  -webkit-line-clamp: 2;
+  overflow: hidden;
+}
+
+.my-media-content-footer {
+  display: flex;
+  justify-content: space-between;
+  width: 310px;
+  height: 16px;
+  align-items: center;
+}
+
+.my-media-time {
+  font-size: 12px;
+  color: #8a8d99;
+}
+
+.my-media-channel {
+  font-size: 16px;
+  color: #fd4e3d;
+  display: flex;
+  align-items: center;
+}
+
+.my-media-channel::before {
+  content: "";
+  display: block;
+  width: 12px;
+  height: 16px;
+  background: url(../image/tag.svg) 50% no-repeat;
+  background-size: contain;
+  margin-right: 10px;
+}
+
+.my-media-footer>img {
+  width: 310px;
+  height: 120px;
+}

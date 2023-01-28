@@ -1,0 +1,17 @@
+.my-footer-layout {
+  text-align: center;
+  padding: 40px;
+  background: #111;
+  color: #8a8d99;
+  font-size: 12px;
+  line-height: 2;
+  font-family: PingFang SC, Heiti SC, Droidsansfallback, Helvetica, Droid Sans;
+}
+
+.my-footer a {
+  color: #abb0c9;
+}
+
+.my-footer a:hover {
+  color: #fff;
+}

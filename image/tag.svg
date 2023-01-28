@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="12px" height="16px" viewBox="0 0 12 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 61 (89581) - https://sketch.com -->
+    <title>tag</title>
+    <desc>Created with Sketch.</desc>
+    <g id="首页" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Desktop-HD" transform="translate(-695.000000, -761.000000)" fill-rule="nonzero">
+            <g id="中部" transform="translate(360.000000, 540.000000)">
+                <g id="中间新闻块">
+                    <g id="大新闻块" transform="translate(19.000000, 20.000000)">
+                        <g id="编组" transform="translate(314.000000, 198.099548)">
+                            <g id="tag" transform="translate(0.000000, 3.000000)">
+                                <rect id="矩形" fill="#000000" opacity="0" x="0" y="0" width="16" height="16"></rect>
+                                <path d="M12.2773333,13.2746667 L7.98773333,11.344 L3.6976,13.2746667 L3.6976,2.34346667 C3.6976,2.2688 3.75893333,2.20693333 3.83413333,2.20693333 L12.1408,2.20693333 C12.216,2.20693333 12.2773333,2.26826666 12.2773333,2.34346667 L12.2773333,13.2746667 L12.2773333,13.2746667 Z M12.1408,0.537066672 L3.83413333,0.537066672 C2.87507245,0.537066672 2.0976,1.31453913 2.0976,2.2736 L2.0976,15.8768 L3.6976,15.1253333 L7.98773333,13.1098667 L12.2773333,15.0410667 L13.8773333,15.7610667 L13.8773333,2.2736 C13.8773333,1.31453913 13.0998609,0.537066672 12.1408,0.537066672 Z" id="形状" fill="#FD4E3D"></path>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

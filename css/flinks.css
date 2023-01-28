@@ -1,0 +1,36 @@
+.my-flinks-layout {
+  display: flex;
+  justify-content: center;
+  height: 120px;
+  width: 100%;
+  background-color: #2d2e32;
+}
+
+.my-flinks {
+  width: 1200px;
+  height: 120px;
+}
+
+.my-flinks h2 {
+  font-size: 16px;
+  line-height: 22px;
+  padding: 14px 0 10px;
+  color: #bbbbbb;
+}
+
+.my-flinks-div {
+  display: flex;
+  justify-content: space-between;
+  width: 500px;
+  height: 22px;
+}
+
+.my-flinks-links {
+  color: #aaa;
+  font-size: 12px;
+}
+
+.my-flinks-links:hover {
+  color: #fff;
+  transition: 0.3s;
+}
